@@ -1,0 +1,3 @@
+Carro{modelo='Aveo', placa='GCL123', color='Negro', año=2000.0}
+Carro{modelo='Mazda', placa='B3J4BS', color='Verde', año=2021.0}
+Carro{modelo='Tundra', placa='G5KS3JJ', color='Blanco', año=2024.0}
